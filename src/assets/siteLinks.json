@@ -8,5 +8,10 @@
     "icon": "CloudServerOutlined",
     "name": "NAS",
     "link": "https://hellofhz.ug.link/"
+  },
+  {
+    "icon": "https://forum.smart-teach.cn/assets/site-image-ieghr9aq.png",
+    "name": "智教联盟论坛",
+    "link": "https://forum.smart-teach.cn/"    
   }
 ]
