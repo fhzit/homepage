@@ -2,6 +2,11 @@
   {
     "icon": "Compass",
     "name": "起始页",
-    "link": "https://nav.imsyy.top/"
+    "link": "https://nav.hellofhz.top/"
+  },
+  {
+    "icon": "Server",
+    "name": "NAS",
+    "link": "https://hellofhz.ug.link/"
   }
 ]
